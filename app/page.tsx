@@ -26,18 +26,16 @@ export default function Home() {
       aboutP3: "Our mission is to offer secure, transparent, and exciting lucky draw opportunities while maintaining fairness and trust for all participants.",
       guidelinesTitle: "Participation Guidelines & Rules",
       guidelinesDesc: "Please read the key guidelines below before joining any lucky draw scheme.",
-      rule1Title: "1. Eligibility:",
-      rule1Desc: "Participants must be 18 years or older and meet any scheme-specific location or identity requirements.",
-      rule2Title: "2. Enrollment:",
-      rule2Desc: "Each scheme will have clear enrollment instructions, entry fees (if applicable), and last date for participation.",
-      rule3Title: "3. Ticket / ID:",
-      rule3Desc: "Every participant will receive a unique ticket number or ID for the draw. Keep this safely for verification.",
-      rule4Title: "4. Draw Process:",
-      rule4Desc: "Draws will be conducted in a transparent manner. Details such as date, time, and method of draw will be announced in advance.",
-      rule5Title: "5. Winners & Prizes:",
-      rule5Desc: "Winners will be announced on our official channels and contacted directly. Prizes are non-transferable unless specifically mentioned.",
-      rule6Title: "6. Compliance:",
-      rule6Desc: "All participants must follow the scheme rules and provide accurate details. Any misuse or fraudulent activity may lead to disqualification.",
+      rule1Title: "1. Enrollment:",
+      rule1Desc: "Each scheme will have clear enrollment instructions, entry fees (if applicable), and last date for participation.",
+      rule2Title: "2. Ticket / ID:",
+      rule2Desc: "Every participant will receive a unique ticket number or ID for the draw. Keep this safely for verification.",
+      rule3Title: "3. Draw Process:",
+      rule3Desc: "Draws will be conducted in a transparent manner. Details such as date, time, and method of draw will be announced in advance.",
+      rule4Title: "4. Winners & Prizes:",
+      rule4Desc: "Winners will be announced on our official channels and contacted directly. Prizes are non-transferable unless specifically mentioned.",
+      rule5Title: "5. Compliance:",
+      rule5Desc: "All participants must follow the scheme rules and provide accurate details. Any misuse or fraudulent activity may lead to disqualification.",
       guidelinesNote: "Note: Detailed terms and scheme-specific conditions will be shared at the time of enrollment.",
       contactTitle: "Contact Us",
       contactDesc: "Have questions or want to know more about our lucky draw schemes? Reach out to us using any of the options below.",
@@ -68,18 +66,16 @@ export default function Home() {
       aboutP3: "ಎಲ್ಲಾ ಭಾಗವಹಿಸುವವರಿಗೆ ನ್ಯಾಯಸಮ್ಮತತೆ ಮತ್ತು ವಿಶ್ವಾಸವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವಾಗ ಸುರಕ್ಷಿತ, ಪಾರದರ್ಶಕ ಮತ್ತು ರೋಮಾಂಚಕ ಲಕ್ಕಿ ಡ್ರಾ ಅವಕಾಶಗಳನ್ನು ನೀಡುವುದು ನಮ್ಮ ಧ್ಯೇಯವಾಗಿದೆ.",
       guidelinesTitle: "ಭಾಗವಹಿಸುವ ಮಾರ್ಗಸೂಚಿಗಳು ಮತ್ತು ನಿಯಮಗಳು",
       guidelinesDesc: "ಯಾವುದೇ ಲಕ್ಕಿ ಡ್ರಾ ಯೋಜನೆಗೆ ಸೇರುವ ಮೊದಲು ದಯವಿಟ್ಟು ಕೆಳಗಿನ ಪ್ರಮುಖ ಮಾರ್ಗಸೂಚಿಗಳನ್ನು ಓದಿ.",
-      rule1Title: "1. ಅರ್ಹತೆ:",
-      rule1Desc: "ಭಾಗವಹಿಸುವವರು 18 ವರ್ಷ ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ವಯಸ್ಸಿನವರಾಗಿರಬೇಕು ಮತ್ತು ಯಾವುದೇ ಯೋಜನೆ-ನಿರ್ದಿಷ್ಟ ಸ್ಥಳ ಅಥವಾ ಗುರುತಿನ ಅವಶ್ಯಕತೆಗಳನ್ನು ಪೂರೈಸಬೇಕು.",
-      rule2Title: "2. ದಾಖಲಾತಿ:",
-      rule2Desc: "ಪ್ರತಿ ಯೋಜನೆಯು ಸ್ಪಷ್ಟ ದಾಖಲಾತಿ ಸೂಚನೆಗಳು, ಪ್ರವೇಶ ಶುಲ್ಕಗಳು (ಅನ್ವಯವಾದರೆ) ಮತ್ತು ಭಾಗವಹಿಸುವ ಕೊನೆಯ ದಿನಾಂಕವನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
-      rule3Title: "3. ಟಿಕೆಟ್ / ಐಡಿ:",
-      rule3Desc: "ಪ್ರತಿ ಭಾಗವಹಿಸುವವರು ಡ್ರಾಗಾಗಿ ವಿಶಿಷ್ಟ ಟಿಕೆಟ್ ಸಂಖ್ಯೆ ಅಥವಾ ಐಡಿಯನ್ನು ಸ್ವೀಕರಿಸುತ್ತಾರೆ. ಪರಿಶೀಲನೆಗಾಗಿ ಇದನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಇರಿಸಿ.",
-      rule4Title: "4. ಡ್ರಾ ಪ್ರಕ್ರಿಯೆ:",
-      rule4Desc: "ಡ್ರಾಗಳನ್ನು ಪಾರದರ್ಶಕ ರೀತಿಯಲ್ಲಿ ನಡೆಸಲಾಗುತ್ತದೆ. ದಿನಾಂಕ, ಸಮಯ ಮತ್ತು ಡ್ರಾ ವಿಧಾನದಂತಹ ವಿವರಗಳನ್ನು ಮುಂಚಿತವಾಗಿ ಘೋಷಿಸಲಾಗುತ್ತದೆ.",
-      rule5Title: "5. ವಿಜೇತರು ಮತ್ತು ಬಹುಮಾನಗಳು:",
-      rule5Desc: "ವಿಜೇತರನ್ನು ನಮ್ಮ ಅಧಿಕೃತ ಚಾನೆಲ್‌ಗಳಲ್ಲಿ ಘೋಷಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ನೇರವಾಗಿ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತದೆ. ನಿರ್ದಿಷ್ಟವಾಗಿ ಉಲ್ಲೇಖಿಸದ ಹೊರತು ಬಹುಮಾನಗಳು ವರ್ಗಾವಣೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ.",
-      rule6Title: "6. ಅನುಸರಣೆ:",
-      rule6Desc: "ಎಲ್ಲಾ ಭಾಗವಹಿಸುವವರು ಯೋಜನೆಯ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸಬೇಕು ಮತ್ತು ನಿಖರವಾದ ವಿವರಗಳನ್ನು ಒದಗಿಸಬೇಕು. ಯಾವುದೇ ದುರುಪಯೋಗ ಅಥವಾ ವಂಚನೆಯ ಚಟುವಟಿಕೆಯು ಅನರ್ಹತೆಗೆ ಕಾರಣವಾಗಬಹುದು.",
+      rule1Title: "1. ದಾಖಲಾತಿ:",
+      rule1Desc: "ಪ್ರತಿ ಯೋಜನೆಯು ಸ್ಪಷ್ಟ ದಾಖಲಾತಿ ಸೂಚನೆಗಳು, ಪ್ರವೇಶ ಶುಲ್ಕಗಳು (ಅನ್ವಯವಾದರೆ) ಮತ್ತು ಭಾಗವಹಿಸುವ ಕೊನೆಯ ದಿನಾಂಕವನ್ನು ಹೊಂದಿರುತ್ತದೆ.",
+      rule2Title: "2. ಟಿಕೆಟ್ / ಐಡಿ:",
+      rule2Desc: "ಪ್ರತಿ ಭಾಗವಹಿಸುವವರು ಡ್ರಾಗಾಗಿ ವಿಶಿಷ್ಟ ಟಿಕೆಟ್ ಸಂಖ್ಯೆ ಅಥವಾ ಐಡಿಯನ್ನು ಸ್ವೀಕರಿಸುತ್ತಾರೆ. ಪರಿಶೀಲನೆಗಾಗಿ ಇದನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಇರಿಸಿ.",
+      rule3Title: "3. ಡ್ರಾ ಪ್ರಕ್ರಿಯೆ:",
+      rule3Desc: "ಡ್ರಾಗಳನ್ನು ಪಾರದರ್ಶಕ ರೀತಿಯಲ್ಲಿ ನಡೆಸಲಾಗುತ್ತದೆ. ದಿನಾಂಕ, ಸಮಯ ಮತ್ತು ಡ್ರಾ ವಿಧಾನದಂತಹ ವಿವರಗಳನ್ನು ಮುಂಚಿತವಾಗಿ ಘೋಷಿಸಲಾಗುತ್ತದೆ.",
+      rule4Title: "4. ವಿಜೇತರು ಮತ್ತು ಬಹುಮಾನಗಳು:",
+      rule4Desc: "ವಿಜೇತರನ್ನು ನಮ್ಮ ಅಧಿಕೃತ ಚಾನೆಲ್‌ಗಳಲ್ಲಿ ಘೋಷಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ನೇರವಾಗಿ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತದೆ. ನಿರ್ದಿಷ್ಟವಾಗಿ ಉಲ್ಲೇಖಿಸದ ಹೊರತು ಬಹುಮಾನಗಳು ವರ್ಗಾವಣೆ ಮಾಡಲಾಗುವುದಿಲ್ಲ.",
+      rule5Title: "5. ಅನುಸರಣೆ:",
+      rule5Desc: "ಎಲ್ಲಾ ಭಾಗವಹಿಸುವವರು ಯೋಜನೆಯ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸಬೇಕು ಮತ್ತು ನಿಖರವಾದ ವಿವರಗಳನ್ನು ಒದಗಿಸಬೇಕು. ಯಾವುದೇ ದುರುಪಯೋಗ ಅಥವಾ ವಂಚನೆಯ ಚಟುವಟಿಕೆಯು ಅನರ್ಹತೆಗೆ ಕಾರಣವಾಗಬಹುದು.",
       guidelinesNote: "ಸೂಚನೆ: ವಿವರವಾದ ನಿಯಮಗಳು ಮತ್ತು ಯೋಜನೆ-ನಿರ್ದಿಷ್ಟ ಷರತ್ತುಗಳನ್ನು ದಾಖಲಾತಿ ಸಮಯದಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತದೆ.",
       contactTitle: "ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ",
       contactDesc: "ಪ್ರಶ್ನೆಗಳಿವೆಯೇ ಅಥವಾ ನಮ್ಮ ಲಕ್ಕಿ ಡ್ರಾ ಯೋಜನೆಗಳ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಲು ಬಯಸುವಿರಾ? ಕೆಳಗಿನ ಯಾವುದೇ ಆಯ್ಕೆಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ.",
@@ -263,12 +259,6 @@ export default function Home() {
                 {t.rule5Title}
               </span>{" "}
               {t.rule5Desc}
-            </li>
-            <li>
-              <span className="font-semibold text-[#0c55c2]">
-                {t.rule6Title}
-              </span>{" "}
-              {t.rule6Desc}
             </li>
           </ul>
           <p className="text-sm text-slate-500">
