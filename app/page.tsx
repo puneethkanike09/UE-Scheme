@@ -128,15 +128,13 @@ export default function Home() {
               </span>
               <button
                 onClick={() => setLanguage(language === "en" ? "kn" : "en")}
-                className={`relative inline-flex h-6 w-11 items-center rounded-full ${
-                  language === "kn" ? "bg-[#0c55c2]" : "bg-slate-300"
-                }`}
+                className={`relative inline-flex h-6 w-11 items-center rounded-full ${language === "kn" ? "bg-[#0c55c2]" : "bg-slate-300"
+                  }`}
                 aria-label="Toggle language"
               >
                 <span
-                  className={`inline-block h-4 w-4 transform rounded-full bg-white shadow-sm ${
-                    language === "kn" ? "translate-x-6" : "translate-x-1"
-                  }`}
+                  className={`inline-block h-4 w-4 transform rounded-full bg-white shadow-sm ${language === "kn" ? "translate-x-6" : "translate-x-1"
+                    }`}
                 />
               </button>
               <span className={`text-xs font-medium ${language === "kn" ? "text-[#0c55c2]" : "text-slate-400"}`}>
@@ -160,7 +158,7 @@ export default function Home() {
             </p>
             <div className="flex flex-col gap-3 text-sm sm:flex-row">
               <a
-                href="https://chat.whatsapp.com/HIhJ2DFsshn7qG3PP4yxkO"
+                href="https://chat.whatsapp.com/DhN6zOQDS4c7BVBQsAAkmw?mode=gi_t"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center rounded-full bg-[#22c55e] px-6 py-2 text-sm font-semibold text-black shadow-md shadow-black/40"
@@ -284,7 +282,7 @@ export default function Home() {
                 {t.whatsappLabel}
               </p>
               <a
-                href="https://chat.whatsapp.com/HIhJ2DFsshn7qG3PP4yxkO"
+                href="https://chat.whatsapp.com/DhN6zOQDS4c7BVBQsAAkmw?mode=gi_t"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex w-fit items-center gap-2 rounded-full bg-[#22c55e] px-4 py-2 text-sm font-semibold text-black shadow-md shadow-black/40"
